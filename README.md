@@ -10,7 +10,7 @@
 - [ ] 合成复用原则
 ## 创建型模式
 
-- [x] 工厂模式 (Factory Pattern):https://mp.csdn.net/mp_blog/creation/editor/132787358
+- [x] 工厂模式 (Factory Pattern): https://blog.csdn.net/weixin_44484668/article/details/132787358
 - [ ] 抽象工厂模式 (Abstract Factory Pattern)
 - [ ] 单例模式 (Singleton Pattern)
 - [ ] 建造者模式 (Builder Pattern)
