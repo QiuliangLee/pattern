@@ -22,7 +22,7 @@
 - [ ] 桥接模式 (Bridge Pattern)
 - [ ] 组合模式 (Composite Pattern)
 - [ ] 装饰者模式 (Decorator Pattern)
-- [ ] 外观模式 (Facade Pattern)
+- [x] 门面模式 (Facade Pattern): https://blog.csdn.net/weixin_44484668/article/details/132790952
 - [ ] 享元模式 (Flyweight Pattern)
 - [ ] 代理模式 (Proxy Pattern)
 
